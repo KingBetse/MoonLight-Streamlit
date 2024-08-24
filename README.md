@@ -19,7 +19,7 @@ To make the analysis more accessible, a Streamlit application has been developed
    ```
 2. Run the Streamlit application:
    ```
-   streamlit run app.py
+   streamlit run page.py
    ```
 3. The application will open in your default web browser, and you can interact with the interface to explore the dataset.
 
